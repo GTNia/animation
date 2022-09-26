@@ -63,7 +63,7 @@ body {
 }
 
 .box {
-    background-image: url('./img/minions.gif');
+    background-image: url('./minions.gif');
     background-repeat: no-repeat;
     background-size: 500px 500px;
     position: relative;
